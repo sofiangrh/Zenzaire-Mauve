@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=ZenzaireMauve
+Type=X-GNOME-Metatheme
+Comment=Mauve colored version of "Reduce" Converted by Marco Talamelli - Original theme by Michael Brandt 
+
+[X-GNOME-Metatheme]
+GtkTheme=ZenzaireMauve
+MetacityTheme=Reduce
+Openbox3Theme=ZenzaireMauve
+IconTheme=default
+

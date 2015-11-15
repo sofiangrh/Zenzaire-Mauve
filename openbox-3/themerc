@@ -1,0 +1,120 @@
+# Openbox3 theme-"ZenzaireMauve"
+# Modified by daman-free to modify
+
+# Window geometry
+padding.width: 1
+border.width: 2
+window.client.padding.width: 1
+window.client.padding.height: 1
+window.handle.width: 0
+
+# Menu geometry
+menu.border.width: 1
+menu.overlap: 0
+
+# Border colors
+window.active.border.color: #6E6E6E
+window.inactive.border.color: #6E6E6E
+menu.border.color: #404040
+window.active.client.color: #303030
+window.inactive.client.color: #303030
+
+window.active.title.separator.color:  #303030
+window.inactive.title.separator.color: #303030
+
+# Text shadows
+window.active.label.text.font:shadow=y:shadowtint=70:shadowoffset=1
+window.inactive.label.text.font: shadow=n
+menu.items.font:shadow=y:shadowtint=70:shadowoffset=1
+menu.title.text.font:shadow=y:shadowtint=70:shadowoffset=1
+osd.label.text.font: shadow=y:shadowtint=70:shadowoffset=1
+
+# Window title justification
+window.label.text.justify: center
+
+# Active window
+window.active.title.bg: Flat Gradient Vertical
+window.active.title.bg.color: #666666
+window.active.title.bg.colorTo: #303030
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #ababab
+
+window.active.button.unpressed.bg: Parentrelative
+window.active.button.unpressed.image.color: #ababab
+
+window.active.button.pressed.bg: Parentrelative
+window.active.button.pressed.image.color: #101010
+
+window.active.button.disabled.bg: Parentrelative
+window.active.button.disabled.image.color: #444444
+
+window.active.button.toggled.bg: Parentrelative
+window.active.button.toggled.image.color: #101010
+
+window.active.button.hover.bg: Parentrelative
+window.active.button.hover.image.color: #65041C
+
+# Inactive windows
+window.inactive.title.bg: Flat Gradient Vertical
+window.inactive.title.bg.color: #666666
+window.inactive.title.bg.colorTo: #303030
+
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: #828282
+
+window.inactive.button.unpressed.bg: Parentrelative
+window.inactive.button.unpressed.image.color: #828282
+
+window.inactive.button.pressed.bg: Parentrelative
+window.inactive.button.pressed.image.color: #888888
+
+window.inactive.button.disabled.bg: Parentrelative
+window.inactive.button.disabled.image.color: #888888
+
+window.inactive.button.toggled.bg: Parentrelative
+window.inactive.button.toggled.image.color: #888888
+
+window.inactive.button.hover.bg: Parentrelative
+window.inactive.button.hover.image.color: #65041C
+
+# Menus
+menu.title.bg: flat gradient vertical 
+menu.title.bg.color: #666666
+menu.title.bg.colorTo: #303030
+menu.title.text.color: #ababab
+menu.title.text.justify: Center
+
+menu.items.bg: raised gradient mirrorhorizontal bevel2
+menu.items.bg.color: #756868
+menu.items.bg.colorTo: #A69494
+menu.items.text.color: #363636
+menu.items.disabled.text.color: #6B6B6B
+
+menu.items.active.bg: Sunken gradient splitvertical
+menu.items.active.bg.color: #4F2C2C
+menu.items.active.bg.color.splitTo: #361F1F
+menu.items.active.bg.colorTo: #4F2C2C
+menu.items.active.bg.colorTo.splitTo: #7A4444
+menu.items.active.text.color: #AAAAAA
+
+
+#osd
+osd.border.width: 1
+osd.border.color:  #404040
+
+osd.bg: Sunken diagonal gradient
+osd.bg.color: #8E7F7F
+osd.bg.colorTo: #4A3E3E
+
+osd.hilight.bg: Raised gradient splitvertical
+osd.hilight.bg.color: #4F2C2C
+osd.hilight.bg.color.splitTo: #7A4444
+osd.hilight.bg.colorTo: #4F2C2C
+osd.hilight.bg.colorTo.splitTo: #361F1F
+
+osd.unhilight.bg: flat gradient vertical
+osd.unhilight.bg.color: #444444
+osd.unhilight.bg.colorTo: #6e6e6e
+
+osd.label.bg: Parentrelative
+osd.label.text.color: #AAAAAA
