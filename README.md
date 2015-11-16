@@ -2,31 +2,13 @@
 KuduKs wonderful Reduce gtk2 theme.
 http://gnome-look.org/content/show.php/Reduce?content=123505
 
-I was amazed with the pixmap work.
+I was amazed with the pixmap work. Moved it over to a murrine gtkrc, cause some apps did not play well with just pixbuf engine. Fixed panel button normal,active,prelight sequence.
 
-Moved it over to a murrine gtkrc, cause
-some apps did not play well with just
-pixbuf engine.
+Tweeked just a few pixmaps only because I did my color change. If you like icons on your buttons and menu, open up the gtkrc file and comment out # the first two lines gtk-menu-images = 0 gtk-button-images = 0
 
-Fixed panel button normal,active,prelight
-sequence.
+If you want your file manager side pane the same color as your base window, comment out # GtkTreeView::even-row-color= \"#4F4444\"
 
-Tweeked just a few pixmaps only because
-I did my color change.
-
-If you like icons on your buttons and menu, open up the gtkrc file and
-comment out # the first two lines
-gtk-menu-images = 0
-gtk-button-images = 0
-
-If you want your file manager side pane
-the same color as your base window,
-comment out #
-GtkTreeView::even-row-color= \"#4F4444\"
-
-I removed the iconrc cause it was not complete and I could not do it justice.
-I am using,
-http://gnome-look.org/content/show.php/Snow+sabre?content=123559
+I removed the iconrc cause it was not complete and I could not do it justice. I am using, http://gnome-look.org/content/show.php/Snow+sabre?content=123559
 
 Finally, I left out the pixmap spin buttons and arrows and let murrine handle them. Just my artistic choice.
 
