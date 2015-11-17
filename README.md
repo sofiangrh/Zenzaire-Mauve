@@ -13,8 +13,7 @@ I removed the iconrc cause it was not complete and I could not do it justice. I 
 Finally, I left out the pixmap spin buttons and arrows and let murrine handle them. Just my artistic choice.
 
 So for all you freedom fighters:
-Then there\'s Maude.
-Oops I meant... ZenzaireMauve
+Then there\'s Maude. Oops I meant... ZenzaireMauve
 
 # Screenshot
 <img src="http://gnome-look.org/CONTENT/content-pre1/123971-1.jpg" height="480" width="640">
